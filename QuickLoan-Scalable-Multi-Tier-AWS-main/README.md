@@ -643,13 +643,7 @@ This provides practical experience with the core building blocks used when desig
 
 **Harshala Mahajan**
 
-GitHub: _Add your GitHub username here_
-
----
-
-### Editable Word Documentation
-
-📄 **[Download Editable Project Documentation](QuickLoan_AWS_Cloud_Portfolio_Harshala_Mahajan.docx)**
+GitHub: https://github.com/mahajanharshla91-gif
 
 ---
 
